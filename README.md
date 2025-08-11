@@ -1,4 +1,3 @@
-# acampamento-nossa-senhora-da-boa-morte
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
